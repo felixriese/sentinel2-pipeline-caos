@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3879622.svg)](https://doi.org/10.5281/zenodo.3879622)
+
 # CAOS Sentinel-2 Pipeline in Python
 
 Pipeline for the processing of Sentinel-2 data and ground truth in the CAOS-Lux project
@@ -62,7 +64,8 @@ Python", Code, Zenodo, 2020.
 @misc{wagner2020caos,
   author       = {Wagner, Philipp and Riese, Felix~M. and Keller, Sina},
   title        = {CAOS Sentinel-2 Pipeline in Python},
-  year         = 2020,
-  publisher    = {Zenodo}
+  year         = {2020},
+  publisher    = {Zenodo},
+  doi = {10.5281/zenodo.3879622}
 }
 ```
