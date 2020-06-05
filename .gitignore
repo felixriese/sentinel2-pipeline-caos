@@ -1,0 +1,14 @@
+__pycache__
+.DS_Store
+*.log
+*.pdf
+.ipynb_checkpoints
+.vscode
+
+datefile.txt
+account.ini
+
+data/ground_truth/*.csv
+data/shapefiles/*/*
+sentinel_api
+plots
